@@ -22,5 +22,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ProcesadorNullOutLib"
 include(":app")
-include(":ProcesadorNullOutLib")
+include(":ProcessNullOutLib")
  
