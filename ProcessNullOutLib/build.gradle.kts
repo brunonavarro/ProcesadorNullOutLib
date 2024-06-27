@@ -39,8 +39,8 @@ publishing {
         create<MavenPublication>("mavenJava") {
             from(components["java"])
             groupId = "com.github.brunonavarro"
-            artifactId = "DecoradorLib"
-            version = "1.0.0-beta2"
+            artifactId = "ProcessNullOutLib"
+            version = "1.0.0-beta3"
         }
     }
 }
